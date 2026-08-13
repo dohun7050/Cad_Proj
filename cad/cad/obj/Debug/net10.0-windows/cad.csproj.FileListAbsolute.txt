@@ -1,0 +1,16 @@
+C:\도훈 개발\proj\cad\cad\bin\Debug\net10.0-windows\cad.exe
+C:\도훈 개발\proj\cad\cad\bin\Debug\net10.0-windows\cad.deps.json
+C:\도훈 개발\proj\cad\cad\bin\Debug\net10.0-windows\cad.runtimeconfig.json
+C:\도훈 개발\proj\cad\cad\bin\Debug\net10.0-windows\cad.dll
+C:\도훈 개발\proj\cad\cad\bin\Debug\net10.0-windows\cad.pdb
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.Form1.resources
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.csproj.GenerateResource.cache
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.GeneratedMSBuildEditorConfig.editorconfig
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.AssemblyInfoInputs.cache
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.AssemblyInfo.cs
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.csproj.CoreCompileInputs.cache
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.dll
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\refint\cad.dll
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.pdb
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\cad.genruntimeconfig.cache
+C:\도훈 개발\proj\cad\cad\obj\Debug\net10.0-windows\ref\cad.dll
